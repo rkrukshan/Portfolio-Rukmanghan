@@ -69,7 +69,7 @@ export const PROJECTS = [
     description:
       "A platform for Listing and Showcase Grosery products using React ,Tailwind, Redux, Material UI, Framer Motion.",
     technologies: ["React", "Tailwind", "Redux", "MUI", "Framer Motion"],
-    link: "https://github.com/rkrukshan/Grocery-Shop/tree/master",
+    link: "https://github.com/rkrukshan/Grocery-App",
   },
 ];
 
